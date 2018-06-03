@@ -1,5 +1,5 @@
 
-# AVL-tree-in-cpp
+# AVL tree in C++
 
 Implementation of the Adelson-Velskii &amp; Landis (AVL) balanced tree 
 in the C++ programming language for academic purposes. If you want to 
